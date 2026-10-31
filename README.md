@@ -14,6 +14,7 @@
 <img src="assets/h-oss.svg" width="400" alt="02 · Open source">
 
 <p>
+  <a href="https://github.com/ai-pipes/lore"><img src="assets/p-lore.svg" width="32%" alt="Lore: living documentation pushed from CI, a chat that cites its sources, MCP and SSO"></a>
   <a href="https://github.com/ai-pipes/mcp-registry"><img src="assets/p-mcp-registry.svg" width="32%" alt="MCP Registry: one endpoint for all MCP servers, per-user OAuth, tool search"></a>
   <a href="https://github.com/ai-pipes/skills-registry"><img src="assets/p-skills-registry.svg" width="32%" alt="Skills Registry: versioned skills for Claude Code over MCP with semantic search"></a>
   <a href="https://github.com/Isqanderm/memex"><img src="assets/p-memex.svg" width="32%" alt="Memex: self-hosted RAG for your documents with hybrid search and a local reranker"></a>
